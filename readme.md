@@ -57,3 +57,5 @@ docker compose exec php bin/console db:populate
     - **Twig** : Contient les extension Twig de l'application
 - **view** : Contient les fichiers .twig de l'application
 
+## Exercices
+Voir le fichier [TODO.md](TODO.md)
